@@ -1,0 +1,15 @@
+C:\Users\leonardobg\source\repos\Injecao.Dependencia\Application\bin\Debug\net5.0\Application.deps.json
+C:\Users\leonardobg\source\repos\Injecao.Dependencia\Application\bin\Debug\net5.0\Application.dll
+C:\Users\leonardobg\source\repos\Injecao.Dependencia\Application\bin\Debug\net5.0\ref\Application.dll
+C:\Users\leonardobg\source\repos\Injecao.Dependencia\Application\bin\Debug\net5.0\Application.pdb
+C:\Users\leonardobg\source\repos\Injecao.Dependencia\Application\bin\Debug\net5.0\Services.dll
+C:\Users\leonardobg\source\repos\Injecao.Dependencia\Application\bin\Debug\net5.0\Services.pdb
+C:\Users\leonardobg\source\repos\Injecao.Dependencia\Application\obj\Debug\net5.0\Application.csproj.AssemblyReference.cache
+C:\Users\leonardobg\source\repos\Injecao.Dependencia\Application\obj\Debug\net5.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leonardobg\source\repos\Injecao.Dependencia\Application\obj\Debug\net5.0\Application.AssemblyInfoInputs.cache
+C:\Users\leonardobg\source\repos\Injecao.Dependencia\Application\obj\Debug\net5.0\Application.AssemblyInfo.cs
+C:\Users\leonardobg\source\repos\Injecao.Dependencia\Application\obj\Debug\net5.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\leonardobg\source\repos\Injecao.Dependencia\Application\obj\Debug\net5.0\Application.csproj.CopyComplete
+C:\Users\leonardobg\source\repos\Injecao.Dependencia\Application\obj\Debug\net5.0\Application.dll
+C:\Users\leonardobg\source\repos\Injecao.Dependencia\Application\obj\Debug\net5.0\ref\Application.dll
+C:\Users\leonardobg\source\repos\Injecao.Dependencia\Application\obj\Debug\net5.0\Application.pdb
